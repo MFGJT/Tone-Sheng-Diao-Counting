@@ -1,0 +1,1 @@
+This Python script is designed particularly for studies of the Chinese language. If you wish to use it for your project / report / paper, please contact [Hoyii](mailto:henry1911@foxmail.com) for more information.
